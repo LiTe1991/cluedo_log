@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Block4Cluedo</string>
+    <string name="profiletitle">Profiletitle:</string>
+    <string name="cluedotype">Cluedotype:</string>
+    <string name="anzahl_spieler">Anzahl Spieler:</string>
+    <string name="spielername">Spielername:</string>
+    <string name="bild">Bild:</string>
+    <string name="cluedo">Cluedo: %1s</string>
+    <string name="numberPlayers">Anzahl Spieler: %1s</string>
+</resources>
